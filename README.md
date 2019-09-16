@@ -1,5 +1,5 @@
 
-<img width="940" alt="101_rank" src="https://user-images.githubusercontent.com/6191291/61288271-65929c80-a7e4-11e9-87ab-92d75afe369c.PNG">
+<img width="958" alt="68_rank" src="https://user-images.githubusercontent.com/6191291/64949660-4f15c980-d897-11e9-8f87-5adf3e57e709.PNG">
 
 
 
